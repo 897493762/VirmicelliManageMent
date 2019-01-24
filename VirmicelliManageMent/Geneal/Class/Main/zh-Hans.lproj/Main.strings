@@ -1,0 +1,12 @@
+
+/* Class = "UITabBarItem"; title = "設定"; ObjectID = "M6s-wV-wnz"; */
+"M6s-wV-wnz.title" = "設定";
+
+/* Class = "UITabBarItem"; title = "足あと"; ObjectID = "Vhd-6W-VLB"; */
+"Vhd-6W-VLB.title" = "足あと";
+
+/* Class = "UITabBarItem"; title = "基本分析"; ObjectID = "lYL-Ds-c9Y"; */
+"lYL-Ds-c9Y.title" = "基本分析";
+
+/* Class = "UITabBarItem"; title = "高性能分析"; ObjectID = "yXE-ee-NyD"; */
+"yXE-ee-NyD.title" = "高性能分析";

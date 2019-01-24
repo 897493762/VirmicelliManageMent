@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>595305717766-rp9bg3hgmj1j6akmaqqnvfm8tnb0u6ee.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.595305717766-rp9bg3hgmj1j6akmaqqnvfm8tnb0u6ee</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBEnOKb0Q5wpfh0F8ASpIXYTQUuAbWTL1Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>595305717766</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.CeltisBungeana.managerthree</string>
+	<key>PROJECT_ID</key>
+	<string>followers-manager-3f9ff</string>
+	<key>STORAGE_BUCKET</key>
+	<string>followers-manager-3f9ff.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:595305717766:ios:fa80f484b2332166</string>
+	<key>DATABASE_URL</key>
+	<string>https://followers-manager-3f9ff.firebaseio.com</string>
+</dict>
+</plist>

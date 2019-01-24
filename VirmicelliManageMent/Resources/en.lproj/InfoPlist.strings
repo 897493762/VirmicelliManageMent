@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  VirmicelliManageMent
+
+  Created by Satoshi Nakamoto on 2018/10/19.
+  Copyright © 2018年 Satoshi Nakamoto. All rights reserved.
+*/
+"NSPhotoLibraryAddUsageDescription" = "Add pictures or videos to the Album";
+"NSPhotoLibraryUsageDescription" = "Select  save a picture or video";
+"NSCameraUsageDescription" =  "Photo / camera / scanned QR Code";
+"NSLocationWhenInUseUsageDescription"="Allow location to see people nearby";

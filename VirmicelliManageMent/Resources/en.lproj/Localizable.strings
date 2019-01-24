@@ -1,0 +1,425 @@
+/* 
+  Localizable.strings
+  VirmicelliManageMent
+
+  Created by Satoshi Nakamoto on 2018/10/19.
+  Copyright © 2018年 Satoshi Nakamoto. All rights reserved.
+*/
+"0001"="Cancel";
+"0002"="To recreate the bug or problem, we need to collect the following information: \nDevice:%@\nOS Version:%@\nApp Version:%@\nNetwork: \nFeedback:";
+"0006"="%@  Feedback";
+"0007"="Network error, please check your connection and try again later.";
+"0008"="%@k";
+"0009"="%@m";
+"0010"="%@b";
+"5001"="The password you entered is incorrect.Please try again.";
+"5002"="Incorrect user name, please enter the right user name. You can check your user name by Instagram.";
+"5003"="Your account %@ needs to be verified.Please open Instagram,log in with %@,and verify it before using the app again.";
+"5004"="Your account information has changed.For security reasons,Please login again.";
+"2001"="Followers I don't follow";
+"2002"="User not following me back";
+"2003"="Followers I follow back";
+"2004"="User that I sent 「like」";
+"2005"="User that gave me 「like」";
+"2006"="Lost followers";
+"2007"="Special Members";
+"2008"="User search";
+"2009"="!Caution!";
+// notice_content
+"2010"="After you add users to the「Special members」,their follow status are fixed even if you do follow/unfollow all.\nIf you exceeds the limit(per hour) of request to the Instagram,the Error occurs.";
+"2011"="You are not logged in with Twitter, please log in with your Twitter account.";
+"2012"="Share";
+"2013"="Processing for All";
+"2014"="Take following steps for all the users in the list\n「except the Special members」.";
+"2015"="YES";
+"2016"="Settings";
+"2017"="Others";
+"2018"="FAQ";
+"2019"="Feedback";
+"2020"="Rate on the AppStore";
+"2021"="Instagram Authorization";
+"2022"="Logout";
+"2023"="Preference";
+"2024"="Show like/liked list";
+"2025"="Reset Data";
+"2026"="Lost followers";
+"2027"="Reset success.";
+"2028"="Sign out";
+"2029"="Sign out";
+"2030"="Followed!";
+"2031"="Unable to follow now";
+"2032"="Have added to 「Special members」";
+//fivestarcontent
+"2033"="Please rate us with five stars to keep us motivated for free upgrades. A five-star comment can remove full screen ads. Become our VIP also can remove  full screen ads. m(_ _)m";
+"2034"="Review";
+"2035"="Never";
+"2036"="Later";
+"2037"="Are you sure to sign out?";
+"2038"="Are you sure to reset the data of「users recently unfollowed you 」?";
+
+"13_0036"="Update";
+"8888"="%@";
+"5000"="Login Error";
+"5005"="This account is private.";
+"5006"="This user profile is private，you need to follow this user first.";
+"2040"="Share to friends";
+"2041"="「%@」You can get more free Followers on this interesting App~ ";
+"2042"="Your request has been send.";
+"2043"="No more results.";
+"2044"="Removed from 「Special Member」";
+"2045"="Unfollowed";
+"2046"="Fault to unfollowed";
+"2047"="When using this app,login with your Instagram account you can check:\n\n\
+- Followers I don't follow (checking this page you can follow or unfollow your followers.)\n\
+- User not following me back (checking this page you can follower or unfollow your followed users)\n\
+- Followers I follow back (checking this page you can get information of followers you followed back.)\n\
+- User that I sent \"Like\" (chceking this page you can see who you have sent \"Like\")\n\
+- User that gave me \"Like\" (checking this page you can see who have sent you \"Like\")\n\
+- Lost followers (checking this page you can see who have unfollowed you.Data available since the time you start this app.You can remove the data by yourself.)\n\
+- Special Members (Quick way to set user as special member.)\n\
+- User Search (You can search others in Instagram.)\n\n\
+Push share button to share your achievements!";
+"2048"="You are not logged in with Facebook, please log in with your Facebook account.";
+"2049"="You are not logged in with Twitter, please log in with your Twitter account.";
+"2050"="Not logged in";
+"2051"="No Users";
+"2052"="Please enter the user name that you want to find";
+"2053"="Account or password can't be empty";
+
+"2054"="My Best Posts";
+"2055"="My Most Popular Posts";
+"2056"="My Most Liked Posts";
+"2057"="My Most Commented Posts";
+
+"2058"="My Worst Posts";
+"2059"="My Least Popular Posts";
+"2060"="My Least Liked Posts";
+"2061"="My Least Commented Posts";
+
+"2062"="My Best Followers";
+"2063"="Most Comment and Likes";
+"2064"="Most Comments to Me";
+"2065"="Most Likes to Me";
+
+"2066"="My Worst Followers";
+"2067"="No Comments or Likes";
+"2068"="No Comments to Me";
+"2069"="No Likes to Me";
+
+"2070"="My Secret Admirers";
+"2071"="Most Comments and Likes";
+"2072"="Most Comments to Me";
+"2073"="Most Likes to Me";
+"2074"="Engagement";
+"2075"="Posts";
+"2076"="comments";
+"2077"="likes";
+"2078"="share";
+
+"2079"="Puchares this feature for %@";
+"2080"="Puchares all features for ¥1200";
+"2081"="Remove ADs";
+"2082"="Restore Purchase";
+"2083"="Later";
+"2084"="Resume trading success";
+"2085"="Purchase failed";
+
+"2086"="Purchases Needed";
+"2087"="Do you want to get [%@] for %@?";
+"2088"="Get this feature for %@";
+"2089"="Get Insights for %@";
+"2090"="Recovering";
+"2091"="restore failed";
+
+
+"2092"="Non-followers Analysis";
+
+"2093"="My videos";
+"2094"="Popular videos";
+"2095"="Videos of many likes";
+"2096"="Videos of many comments";
+
+"2097"="Ghost Users";
+"2098"="Who blocked me";
+"2099"="My block list";
+"2100"="Recommend users";
+"2101"="Users nearby";
+"2102"="OTHER";
+
+"2103"="Cancel block succeed";
+"2104"="Cancel block failed";
+"2105"= "Videos watched often";
+
+"2106"= "Interested in me(not followers)";
+"2107"= "Give many likes(not followers)";
+"2108"= "Give many comments(not followers)";
+"2109"="No Videos";
+"2110"=" who @ me";
+"2112"="Posts Analysis";
+"2113"="Followers Analysis";
+"2114"="Non-followers Analysis";
+"2115"="Other Analysis";
+"2116"="Analysis";
+"2117"="INSIGHTS";
+"2118"="BBS";
+"2119"="Setting";
+"2120"="content_en";
+"2121"="btn_payall_en";
+"2122"="Instagram Token expire";
+"2123"="OK";
+"2124"="Add Account";
+"2125"="Accounts";
+"2126"="Membership State";
+"2127"="Paying Member";
+"2128"="Membership Deadline:%@";
+"2129"="Free Member";
+"2130"="/";
+"2131"="/";
+"2132"="";
+"2133"="Start";
+"2134"="Login failed due to a Instagram restriction. Please login again later";
+"2135"="You are unable to log in due to your Instagram double validation. If you are sure to log in, please go to Instagram to close double validation";
+"2136"="Go to Instagram to set";
+"2137"="Open Instagram";
+"2138"="Forgot Password";
+"2139"="Try Again";
+"2140"="Following";
+"2141"="Stalkers";
+"2142"="ENGAGEMENT";
+"2143"="Insights";
+"2144" = "Search";
+"2145" = "Stalkers List";
+"2146" = "PREMIUM";
+"2148" = "SUBSCRIBE";
+"2149" = "COLUMN";
+"2150" = "Follower";
+"2151" = "Add Account";
+"2152" = "Artboard";
+"2153" = "Artboard_X";
+
+"2154" = "TOTAL LIKES";
+"2155" = "TOTAL COMMENTS";
+"2156" = "LIKES PER POST";
+"2157" = "LIKES PER PHOTO";
+"2158" = "LIKES PER VIDEO";
+"2159" = "COMMENTS";
+"2160" = "PER POST";
+"2161" = "PER PHOTO";
+"2162" = "PER VIDEO";
+"2163" = "TOTAL POSTS";
+"2164" = "TOTAL PHOTOS";
+"2165" = "TOTAL VIDEOS";
+"2166" = "MONTH";
+"2167" = "MONTHS";
+"2168" = "MO";
+"2169" = "SAVE 70%";
+"2170" = "SAVE 75%";
+"2171" = "LIMITED OFFER";
+"2172" = "MOST POPULAR";
+"2173" = "PURCHASE";
+"2174" = "sorry,there was a problem with you request";
+"2175" = "To Purchase";
+"2176" = "SAVE 80%";
+"2177" = "SAVE 90%";
+"2178" = "Introduce The Application";
+"2179" = "10% more!!!";
+"2180" = "pay_share_t_onemo";
+"2181" = "pay_share_t_halfyear";
+"2182" = "pay_share_t_oneyear";
+"2183" = "Buy";
+"2184" = "Twitter";
+"2185" = "Are you sure to spend %@ to buy this product? Share to your friend to get a discount of %@.";
+"2186" = "share successed";
+"2187" = "share failed";
+
+"2189" = "£12.99/MO";
+"2190" = "£9.99/MO";
+"2191" = "£6.99/MO";
+"2192" = "£3.25/MO";
+"2193" = "£2.58/MO";
+"2195" = "£2.25/MO";
+"2196" = "£3.83/MO";
+"2197" = "£3.16/MO";
+"2198" = "£2.83/MO";
+"2147" = "Subscribe to unlock Premium features";
+"2199" = "Subscribe to unlock Premium features";
+"2210" = "Subscribe to unlock Premium features";
+
+"2405" = "Purchase Notice\n1 The payment function will be free for 3 days.\n2 It will be automatically deducted and automatically renewed after 3 days.\n3 After confirmation, you will receive a subscription fee of $29.99 / year from your iTunes account. This subscription is valid for 1 years, and all the functions can be used.\n4 Subscriptions that are not cancelled within 24 hours prior to each subsequent year will be automatically renewed by default and the renewal fee will be deducted by $29.99 per year.\n5 After purchasing, you can go to your iTunes Store account settings to manage subscriptions and turn off automatic subscriptions.\n6 Confirming subscriptions means that you agree with our terms and privacy policy.";
+"2406" = "terms";
+"2407" = "privacy policy";
+"2408" = "Purchase Notice";
+"2409" = "300";
+"2410" = "https://goo.gl/Gae1T2";
+"2411" = "https://goo.gl/NDkPtb";
+"2412" = "Successfully saved to photo library";
+"2413" = "Share to Instagram";
+"2420" = "1 The payment function will be free for 3 days.\n2 It will be automatically deducted and automatically renewed after 3 days.\n3 After confirmation, you will receive a subscription fee of $29.99 / year from your iTunes account. This subscription is valid for 1 years, and all the functions can be used.\n4 Subscriptions that are not cancelled within 24 hours prior to each subsequent year will be automatically renewed by default and the renewal fee will be deducted by $29.99 per year.\n5 After purchasing, you can go to your iTunes Store account settings to manage subscriptions and turn off automatic subscriptions.\n6 Confirming subscriptions means that you agree with our terms and privacy policy.";
+
+"pay_page_down" = "pay_page_down_en";
+"pay_page_top" = "pay_page_top_en";
+
+"充電完了しました" = "Full charged.";
+"注意" = "Attention";
+"今後も無料でアップデートを提供できるよう、App Storeでこのアプリに５つ星の評価をお願いしますm(__)m" = "We will keep offering free update. Please rate our app with 5 stars!";
+"実行" = "Go";
+"以後表示しない" = "Never";
+"後で" = "Later";
+"フル充電 : %d\n通常充電 : %d" = "Full Charge : %d\nCharge : %d";
+"デフォルト" = "Default";
+"ウエイブ" = "Wave";
+"ビルディング" = "Building";
+"クール" = "Cool";
+"ハイライト" = "Highlight";
+"スピリット" = "Spirit";
+"レトロ" = "Retro";
+"ブルーライト" = "Bluelight";
+"ブリッジ" = "Bridge";
+"ビーチ" = "Beach";
+"ナイトシーン" = "Nightscene";
+"   カスタマイズ" = "Custom";
+"   デフオルト" = " Default ";
+"完了" = " Done ";
+"編集" = " Edit ";
+"キャンセル" = "Cancel";
+
+"お友達にシェア" = " Share ";
+"レビューを書く" = " Review ";
+"お問い合わせ" = " Support ";
+"その他" = " Other ";
+
+"ご使用のOSバージョン" = "OS";
+"ご使用の機種" = "Device";
+"お問合わせ内容を以下に記載下さい" = "Feedbacks";
+"アプリのバージョン" = "App Version";
+"シェア" = "Share";
+
+"キャンセル" = "Cancel";
+"アルバムから" = "Choose From Photos";
+"カメラから" = "Choose From Camera";
+
+"Facebookにログインします" = "Logon to Facebook";
+"Twitterにログインします" = "Logon to Twitter";
+//李敏追加9.6
+"MJRefreshHeaderIdleText" = "Pull down to refresh";
+"MJRefreshHeaderPullingText" = "Release to refresh";
+"MJRefreshHeaderRefreshingText" = "Loading...";
+
+"MJRefreshAutoFooterIdleText" = "Tap or pull up to load more";
+"MJRefreshAutoFooterRefreshingText" = "Loading...";
+"MJRefreshAutoFooterNoMoreDataText" = "No more data";
+
+"MJRefreshBackFooterIdleText" = "Pull up to load more";
+"MJRefreshBackFooterPullingText" = "Release to load more.";
+"MJRefreshBackFooterRefreshingText" = "Loading...";
+"MJRefreshBackFooterNoMoreDataText" = "No more data";
+
+"MJRefreshHeaderLastTimeText" = "Last update:";
+"MJRefreshHeaderDateTodayText" = "Today";
+"MJRefreshHeaderNoneLastDateText" = "No record";
+
+
+"2500" = "High performance analysis";
+"2501" = "Free trial";
+"2502" = "New order";
+"2503" = "Premium";
+"2504" = "Register and unlock premium features";
+"2505" = "Member login";
+"2506" = "①We have a paid function for 3 days. ②If you do not cancel it during the trial period, you will be charged automatically. ③You will be paid 3400 yen / year from your registered iTunes account. ④The paid membership period is one year from the date purchased. If you do not disable automatic updates by 24 hours prior to the date paid every year, you will be charged automatically. ⑤After purchasing, please select the Apple ID display from the iTunes Store account setting and register to update the automatic update. Please note that it cannot be cancelled during the effective period. ⑥We assume that you agree with the terms of use and privacy policy with the use of this service.";
+"2507" = "Free trial start";
+"2508" = "3 Days free trial, then $29.99/year";
+
+"2600" = "Category";
+"2601" = "Creat QR";
+"2602" = "Camera";
+"2603" = "QR";
+"2604" = "Hash tag read";
+"2605" = "Tag list";
+"2606" = "Ins follower management";
+"2607" = "Login";
+"2608" = "Please input account";
+"2609" = "Please enter the password";
+"2610" = "Save Password";
+"2611" = "Get user profilr url failed";
+"2612" = "Tag has been copied!";
+"2613" = "My tag";
+"2614" = "Custom tag classification";
+"2615" = "Add new tags";
+"2616" = "My tag";
+"2617" = "Tag type";
+"2618" = "Wrong account or password prompt error entered.";
+
+"2700" = "You followed me but I don't follow back";
+"2701" = "I followed you but you don't followed me";
+"2702" = "I followed you and you followed me";
+"2703" = "People who got your likes";
+"2704" = "People who gave you likes";
+"2705" = "People who unfollowed ";
+"2706" = "People you care about";
+"2707" = "You can search for users here";
+
+"2710" = "Emoji CAM";
+"2711" = "My QR";
+"2712" = "QR Tag";
+"2713" = "QR code";
+"2714" = "Instagram analysis";
+"2715" = "Add new Hash Tag";
+"2716" = "New Hash Tag";
+"2717" = "Hash Tag Name";
+"2718" = "Hash Tag Details";
+"2719" = "Edit your tag name";
+"2720" = "Edit your tag text";
+
+"2730" = "Real-time view of lost fans";
+"2731" = "Multi-account simultaneous management";
+"2732" = "Analysis of Popular Posts";
+"2733" = "Analysis of the status of fans";
+"2734" = "Album";
+"2735" = "Posts Analysis";
+
+
+"2740" = "TOTAL POSTS";
+"2741" = "TOTAL PHOTOS";
+"2742" = "TOTAL VIDEOS";
+"2743" = "TOTAL LIKES";
+"2744" = "TOTAL COMMENTS";
+"2745" = "LIKES PER POST";
+"2746" = "LIKES PER PHOTO";
+"2747" = "LIKES PER VIDEO";
+"2748" = "COMMENTS PER POST";
+"2749" = "COMMENTS PER PHOTO";
+"2750" = "COMMENTS PER VIDEO";
+
+"2753" = "Successfully saved to photo library";
+"2761" = "Likes";
+"2762" = "Comment";
+"2755" = "Account";
+"2756" = "Switche Account";
+"2757" = "Instagram Account Change";
+"2758" = "Editing";
+"2759" = "Finished";
+"2751" = "repost";
+"2752" = "Repost Instagram";
+"2763" = "Followers";
+"2764" = "Following";
+"2765" = "+Favorite";
+"2766" = "Search for a user";
+"2767" = "People";
+"2768" = "Hash Tag";
+"2769" = "Liked";
+"2770" = "Favorites";
+"2771" = "Users";
+"2772" = "Do you want to delete the Instagram account?";
+"2774" = "delete";
+"2775" = "STALKERS";
+
+"2776" = "Praise success";
+"2777" = "Cancel the point and praise success";
+"2778" = "Praise failed";
+"2779" = "Cancellation failed";
+
+"2780" = "Collecte success";
+"2781" = "Cancel the collection success";
+"2782" = "Collection failure";
+"2783" = "Failure to Cancel Collection";
+"2784" = "Instagram Username";
